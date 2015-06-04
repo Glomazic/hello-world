@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+IT - a great way to structure comunities on the "opt in - opt out" principle.
